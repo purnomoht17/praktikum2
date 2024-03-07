@@ -1,1 +1,1 @@
-console.log("coi")
+console.log("coi");
